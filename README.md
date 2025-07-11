@@ -13,7 +13,7 @@ Created an interactive Tableau dashboard to visualize Airbnb listings across cit
 - Ratings and availability heatmap
 
 ## 🌐 Live Dashboard
-https://public.tableau.com/app/profile/balaji.sapavath/viz/AirnbListeningdatasetdashboard/FinalDashboard?publish=yes
+https://public.tableau.com/app/profile/balaji.sapavath/viz/AirnbListeningdatasetdashboard/FinalDashboard
 
 ## 📁 Files
 - `Airbnb_Dashboard_Screenshot.png`: Screenshot of the published Tableau dashboard
